@@ -1,0 +1,4 @@
+name: Whitelistpp
+version: '${version}'
+main: iafenvoy.whitelistpp.Whitelistpp
+description: BungeeCord global whitelist
